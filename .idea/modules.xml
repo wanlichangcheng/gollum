@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gollum.iml" filepath="$PROJECT_DIR$/gollum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serializableschemestudy/serializableschemestudy.iml" filepath="$PROJECT_DIR$/serializableschemestudy/serializableschemestudy.iml" />
+    </modules>
+  </component>
+</project>
