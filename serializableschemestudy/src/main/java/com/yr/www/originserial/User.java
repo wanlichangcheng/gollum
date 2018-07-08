@@ -28,6 +28,7 @@ public class User implements Serializable{
 
     @Override
     public String toString() {
+        //git比较能提吗
         return "User{" +
                 "name='" + name + '\'' +
                 ", password='" + password + '\'' +
